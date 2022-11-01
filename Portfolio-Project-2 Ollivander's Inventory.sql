@@ -1,3 +1,5 @@
+-- A Harry Potter challenge from HackerRank - we are looking for the smallest number of coins needed to buy each wand of interest 
+
 select 
 w.id, 
 wp.age, 
