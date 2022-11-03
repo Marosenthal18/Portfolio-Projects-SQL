@@ -25,7 +25,7 @@ order by 1,2
 
 
 -- Total Cases vs Population
--- Shows what percentage of population infected with Covid in the United States
+-- Shows what percentage of population infected with Covid for countries around the world
 
 Select Location, date, Population, total_cases,  (total_cases/population)*100 as PercentPopulationInfected
 From PortfolioProject..CovidDeaths
