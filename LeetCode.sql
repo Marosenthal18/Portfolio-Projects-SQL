@@ -1,7 +1,7 @@
 --I thought it could be interesting including LeetCode solutions that showcase some of my SQL problem solving skills
 
 
---This question we were asked to find the employees who have the highest salary in each department
+--We were asked to find the employees who have the highest salary in each department
 
 select 
 
