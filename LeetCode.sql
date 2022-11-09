@@ -2,6 +2,7 @@
 
 
 --We were asked to find the employees who have the highest salary in each department
+--Subqueries, Window Functions, Joins
 
 select 
 
